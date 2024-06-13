@@ -62,9 +62,9 @@ The Command Palette in VS Code can be accessed by pressing Ctrl+Shift+P (Windows
 
 5. Extensions in VS Code:
 
-   - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
-
-Extensions in VS Code enhance its functionality by adding support for different languages, tools, and frameworks. Users can find, install, and manage extensions through the Extensions view in the Activity Bar. Essential extensions for web development might include "Live Server" for live previewing, "Prettier" for code formatting, and "ESLint" for JavaScript linting.
+   - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions?
+   
+   Provide examples of essential extensions for web development. Extensions in VS Code enhance its functionality by adding support for different languages, tools, and frameworks. Users can find, install, and manage extensions through the Extensions view in the Activity Bar. Essential extensions for web development might include "Live Server" for live previewing, "Prettier" for code formatting, and "ESLint" for JavaScript linting.
 
 
 6. Integrated Terminal:
