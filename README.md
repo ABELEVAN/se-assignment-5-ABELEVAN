@@ -70,7 +70,8 @@ The Command Palette in VS Code can be accessed by pressing Ctrl+Shift+P (Windows
 6. Integrated Terminal:
 
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
-To open the integrated terminal in VS Code, press `Ctrl+`` (backtick) or navigate to View > Terminal from the menu. The integrated terminal allows you to run command-line tasks directly within VS Code, providing seamless integration with your development workflow. Advantages include easy access without leaving the editor and the ability to run tasks specific to your project.
+   
+   To open the integrated terminal in VS Code, press `Ctrl+`` (backtick) or navigate to View > Terminal from the menu. The integrated terminal allows you to run command-line tasks directly within VS Code, providing seamless integration with your development workflow. Advantages include easy access without leaving the editor and the ability to run tasks specific to your project.
 
 
 7. File and Folder Management:
