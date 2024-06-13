@@ -42,7 +42,7 @@ Keybindings: Customize keybindings if necessary to match your workflow.
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
-   
+
 The main components of the VS Code user interface are:
 
 Activity Bar: Located on the side, it provides quick access to different views like Explorer, Search, Source Control, Debug, and Extensions.
@@ -63,6 +63,7 @@ The Command Palette in VS Code can be accessed by pressing Ctrl+Shift+P (Windows
 5. Extensions in VS Code:
 
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
+
 Extensions in VS Code enhance its functionality by adding support for different languages, tools, and frameworks. Users can find, install, and manage extensions through the Extensions view in the Activity Bar. Essential extensions for web development might include "Live Server" for live previewing, "Prettier" for code formatting, and "ESLint" for JavaScript linting.
 
 
